@@ -1,4 +1,4 @@
-minsweeper_cafesanu
+Minesweeper cafesanu 1.0
 ===================
 
 Hello!
