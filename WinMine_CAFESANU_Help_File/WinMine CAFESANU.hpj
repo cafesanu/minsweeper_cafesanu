@@ -1,0 +1,28 @@
+[OPTIONS]
+CNT=WinMine CAFESANU.cnt
+ERRORLOG=D:\WinMine\WinMine Cafesanu 1.0\WinMine CAFESANU Helip File\WinMine CAFESANU.log
+NOTES=yes
+REPORT=yes
+TITLE=WinMineCAFESANU
+COMPRESS=1
+OLDKEYPHRASE=NO
+CONTENTS=SHM_contents0001
+COPYRIGHT=Made with Shalom Help Maker www.danish-shareware.dk/soft/shelpm/
+
+[FILES]
+D:\WinMine\WinMine Cafesanu 1.0\WinMine CAFESANU Helip File\WinMine CAFESANU.rtf
+
+[CONFIG]
+BrowseButtons()
+
+[WINDOWS]
+main="WinMineCAFESANU",(36,47,533,521),52228,(r16777215),(r12615680),f2
+
+[MAP]
+SHM_contents0001 1
+SHM_contents0002 2
+SHM_contents0003 3
+SHM_contents0004 4
+SHM_contents0005 5
+SHM_contents0006 6
+SHM_contents0007 7

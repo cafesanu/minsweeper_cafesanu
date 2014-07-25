@@ -1,0 +1,2 @@
+Cuando se pierda, y el archivo este gusrdado, desconfigurarlo y borrarlo.
+si esta en pausa, y se minimiza, se despausa.

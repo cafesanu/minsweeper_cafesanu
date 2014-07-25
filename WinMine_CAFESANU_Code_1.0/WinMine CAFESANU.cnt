@@ -1,0 +1,13 @@
+:Base WinMine CAFESANU.hlp
+:Title WinMineCAFESANU
+:Index dummy=dummy.hlp ;(This is necessary when using KLinks - because of a bug in the help
+:Link dummy.hlp        ; compiler. Without this only the first keyword would be looked up!)
+1 WinMine CAFESANU
+1 Introducción=SHM_contents0001@WinMine CAFESANU.hlp
+1 Resolución de pantalla=SHM_contents0002@WinMine CAFESANU.hlp
+1 Guardar, abrir y pausar partidas=SHM_contents0003@WinMine CAFESANU.hlp
+1 El Juego
+1 Como Empezar=SHM_contents0004@WinMine CAFESANU.hlp
+1 Como Jugar=SHM_contents0005@WinMine CAFESANU.hlp
+1 Estrategias y sugerencias del Juego=SHM_contents0006@WinMine CAFESANU.hlp
+1 Ejemplo de Juego=SHM_contents0007@WinMine CAFESANU.hlp

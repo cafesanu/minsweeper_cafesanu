@@ -1,0 +1,310 @@
+##v##00.4.50
+EditHelpFileTitle.Text=WinMineCAFESANU
+form2.STextForeHeadline.Color=16777215
+form2.STextForeText.Color=0
+form2.STextBackHeadline.Color=12615680
+form2.STextBackText.Color=16777215
+form2.STextHeadlineFont.Caption=Arial
+form2.STextTextFont.Caption=Arial
+form2.sTextFontSizeForHeadline.Caption=12
+form2.sTextFontSizeForText.Caption=9
+form2.CBoxBold.Checked=1
+form2.CBoxNoForeColor.Checked=0
+form2.CBoxLanguageID.ItemIndex=0
+form2.CBoxCharSet.ItemIndex=0
+form2.EditContents.Text=Contents
+form2.EditFrontpageName.Text=Front page with index
+form2.CBoxDontMakeFrontpage.Checked=1
+form2.EditLogoPath.Text=
+form2.EditFrontpageButtonCaption.Text=Front page
+form2.RGroupHorizontalAlignment.ItemIndex=0
+form2.RGroupVerticalAlignment.ItemIndex=0
+form2.CBoxBlankLineBeforeEachHeading.Checked=1
+form2.CBoxMakeFrontPageButton.Checked=0
+form2.SpinEditFrontpageIDnumber.Value=9999
+form2.CBoxAddAboutMenu.Checked=0
+form2.EditAboutMenuCaption.Text=&About this help file...
+form2.CBoxPopupPagesForAboutMenu.Tag=-1
+form2.EditConstantNameFilePrefix.Text=pageConstants_
+form2.EditConstantNameFileExt.Text=txt
+form5.sTextColor1=0
+form5.sTextColor2=9743070
+form5.sTextColor3=12386403
+form5.sTextColor4=255
+form5.sTextColor5=8421376
+form5.sTextColor6=8650752
+form5.sTextColor7=33280
+form5.sTextColor8=32896
+form5.sTextColor9=13026246
+form5.sTextColor10=16711680
+form5.sTextColor11=65280
+form5.sTextColor12=8651007
+form5.sTextColor13=16777215
+form5.sTextColor14=16757429
+form5.sTextColor15=9764863
+form5.sTextColor16=8421504
+form5.sTextComment1=
+form5.sTextComment2=
+form5.sTextComment3=
+form5.sTextComment4=
+form5.sTextComment5=
+form5.sTextComment6=
+form5.sTextComment7=
+form5.sTextComment8=
+form5.sTextComment9=
+form5.sTextComment10=
+form5.sTextComment11=
+form5.sTextComment12=
+form5.sTextComment13=
+form5.sTextComment14=
+form5.sTextComment15=
+form5.sTextComment16=
+NumOfPages=6
+------------ end of project settings / page settings follow ------------
+pageC.pages[0].ImageIndex=-1
+pageTitle(0).Text=Introducción
+getPageConstantLabel(0).Caption=
+getPageContentHeaderLabel(0).Caption=
+pageKeywords(0).Text=
+pageC.pages[1].ImageIndex=-1
+pageTitle(1).Text=Resolución de pantalla
+getPageConstantLabel(1).Caption=
+getPageContentHeaderLabel(1).Caption=
+pageKeywords(1).Text=
+pageC.pages[2].ImageIndex=-1
+pageTitle(2).Text=Guardar, abrir y pausar partidas
+getPageConstantLabel(2).Caption=
+getPageContentHeaderLabel(2).Caption=
+pageKeywords(2).Text=
+pageC.pages[3].ImageIndex=-1
+pageTitle(3).Text=Como Empezar
+getPageConstantLabel(3).Caption=
+getPageContentHeaderLabel(3).Caption=
+pageKeywords(3).Text=
+pageC.pages[4].ImageIndex=-1
+pageTitle(4).Text=Como Jugar
+getPageConstantLabel(4).Caption=
+getPageContentHeaderLabel(4).Caption=
+pageKeywords(4).Text=
+pageC.pages[5].ImageIndex=-1
+pageTitle(5).Text=Estrategias y sugerencias del Juego
+getPageConstantLabel(5).Caption=
+getPageContentHeaderLabel(5).Caption=
+pageKeywords(5).Text=
+pageC.pages[6].ImageIndex=-1
+pageTitle(6).Text=Ejemplo de Juego
+getPageConstantLabel(6).Caption=
+getPageContentHeaderLabel(6).Caption=
+pageKeywords(6).Text=
+------------ end of page titles / full text of pages follow ------------
+----- SHM ---- page 0 ---- 
+\par\qr\{bmr WinMine logo small.bmp\}\par\ql
+
+Esta nueva e interesante versión fue planeada y hecha para satisfacer tanto a usuarios inexpertos, como a verdaderos fanáticos del juego.
+
+El usuario notara una gran diferencia entre el juego incorporado en las plataformas Windows y lo que es nuestra nueva versión, pues, además de las características ya conocidas, el juego contiene muchas nuevas particularidades. 
+
+Si es un nuevo usuario encontrara muchas razones para volverse un verdadero fanático, y si es un usuario promedio o un fanático, encontrara que no hay nada mejor que WinMine CAFESANU, y notará que no tendrá que volver a descargar tediosas versiones del juego donde no respetan la visualización y donde, en algunos casos tendrá pagar que por jugar la versión completa de un juego que tendrá muchas menos características que el nuestro.
+----- SHM ---- page 1 ---- 
+\par\qr\{bmr WinMine logo small.bmp\}\par\ql
+
+Lo primero que se debe tener en cuenta al jugar WinMine CAFESANU es la resolución de pantalla, pues, dependiendo del nivel la ventana de juego se va haciendo cada vez más grande.
+Aunque no es necesario, es recomendable tener una tarjeta de video con monitor, tal que la combinación de estas, permitan que la resolucion de pantalla se pueda agrandar a un tamaño de 1792 x 1344 píxeles. Esto es para poder disfrutar de todos los niveles, pues si usted nota, del nivel 16 en adelante se requiere esta resolución.
+Acá están las resoluciones mínimas a escoger dependiendo del nivel.
+
+Nivel              Resolución mínima recomendada
+    1                      640 x 480
+    2                      640 x 480
+    3                      640 x 480
+    4                      720 x 576
+    5                      720 x 576
+    6                      800 x 600 
+    7                      800 x 600 
+    8                      1024 x 768
+    9                      1024 x 768
+  10                      1152 x 864
+  11                      1152 x 864
+  12                      1280 x 1024
+  13                      1280 x 1024
+  14                      1600 x 1200
+  15                      1600 x 1200
+  16                      1792 x 1344
+  17                      1792 x 1344
+  18                      1792 x 1344
+  19                      1792 x 1344
+  20                      1792 x 1344
+  21                      1792 x 1344
+
+----- SHM ---- page 2 ---- 
+\par\qr\{bmr WinMine logo small.bmp\}\par\ql
+
+<i><u><b>NOTA IMPORTANTE:</b></u></i> Cuando usted guarda un juego, o abre un juego anteriormente guardado, <b>WinMine CAFESANU</b> constantemente guardara el juego, hasta el momento en que usted terminó el juego o lo cerro, esto para evitar que se consiga ganar juegos sabiendo previamente en que lugar están las minas.
+
+<b>1. Guardar Partidas</b> La opción de guardar partidas solo esta disponible cuando un juego se esta desarrollando, lo que quiere decir que no se podrán guardar tableros sin haber sido empezados, partidas ganadas o partidas perdidas.
+Para guardar una partida, hay tres maneras posibles...
+<b>1.1</b> Ir al menú <b>Juego</b>, y dar clic en <b>Guardar partida como...</b>si se quiere salvar una partida que no haya sido guardada antes, o si se quiere salvar una partida previamente guardada pero con otro nombre.
+<b>1.2</b> Ir al menú <b>Juego</b>, y dar clic en <b>Guardar partida</b> si se quiere salvar una partida anteriormente guardada. Si se escoge esta opción y el juego no ha sido anteriormente guardado, <b>WinMine CAFESANU</b> asumirá que se dio clic en <b>Guardar partida como...</b>
+<b>1.3</b> Teclear  Ctrl+G, que hará exactamente lo mismo que <b>Guardar partida</b>
+
+<b>2. Abrir Partidas</b> Para Abrir partidas, hay dos maneras posibles...
+<b>2.1</b> Ir al menú <b>Juego</b>, y dar clic en <b>Abrir</b>, donde usted buscara el archivo anteriormente guardado que desee abrir.
+<b>2.2</b> Teclear  Ctrl+A, que hará exactamente lo mismo que <b>Abrir</b>
+
+<b>3. Pausar o reanudar partidas:</b> La opción de pausar partidas solo esta disponible cuando un juego se esta desarrollando, lo que quiere decir que no se podrán pausar tableros sin haber sido empezados, partidas ganadas o partidas perdidas.
+Para pausar una partida, hay tres maneras posibles...
+<b>1.1</b> Ir al menú <b>Juego</b>, y dar clic en <b>Pausar partida</b> donde automáticamente el juego quedara detenido, 
+<b>1.2</b> Teclear P, que hará exactamente lo mismo que <b>Pausar partida</b>
+<b>1.3</b> Minimizar el juego, donde automáticamente se pausara el juego.
+
+Para Reanudar una partida hay tres maneras posibles (La partida tiene que estar pausada)...
+<b>1.1</b> Ir al menú <b>Juego</b>, y dar clic en <b>Reanudar partida</b> donde automáticamente el juego quedara reanudado.
+<b>1.2</b> Teclear  P, que hará exactamente lo mismo que <b>Reanudar partida</b>
+<b>1.3</b> Maximizar el juego, donde automáticamente se reanudará el juego (La partida tiene que estar minimizada).
+
+
+----- SHM ---- page 3 ---- 
+\par\qr\{bmr WinMine logo small.bmp\}\par\ql
+
+Hay dos maneras de configurar un nuevo juego:
+
+<b>1 </b> En el menú <b>Juego</b> están los <b>niveles</b> del juego, <b>Pantalla completa</b> y <b>Personalizado</b>. Puede hacer clic en cualquiera de estas múltiples formas del Juego.
+<b>1.1 </b><b>Niveles</b> Estos tienen 21 diferentes tamaños. Cada vez que se asciende de nivel, este se va tornando más complejo, siendo así en nivel 1 el más fácil, y el 21 el más difícil. El número de minas se calculará automáticamente.
+<b>1.2 </b> <b>Pantalla Completa:</b> Esta modalidad de juego agranda la ventana de juego de acuerdo a la resolución de pantalla del usuario. Sin importar la que este tenga WinMine CAFESANU quedara ocupando toda la pantalla. El número de minas se calculará automáticamente.
+<b>1.3 </b><b>Personalizado:</b> Esta modalidad de juego está hecha para que el usuario defina el tamaño que quiere para jugar la partida. La mínima resolución posible es 9 x 9 y la máxima es 77 x 111, siendo así que, si el usuario ingresa datos erróneos, como lo son letras, WinMine CAFESANU asumirá que se ingresó el mínimo tamaño, y, si el usuario ingresa una resolución que sobrepase a la máxima, WinMine CAFESANU asumirá que se ingresó el máximo tamaño. El número de minas se calculará automáticamente.
+
+<b>2 </b> La otra manera de empezar un nuevo juego se puede, a su vez, de tres formas
+<b>2.1 </b>La primera es en el menú <b>Juego</b> haciendo clic en <b>nuevo</b>, donde el juego iniciará una nueva partida con la última configuración hecha por el usuario.
+<b>2.2 </b>La segunda manera es tecleando <b>F2</b>, que hará exactamente lo mismo que la manera anterior de empezar el juego.
+<b>2.3 </b>La tercera manera de empezar el juego, es dando clic en la cara que se encuentra en la parte central superior de la ventana de juego. Esta, hará exactamente lo mismo que las dos anteriores maneras de empezar el juego.
+
+
+Hecho cualquiera de los pasos anteriores, el juego empezará cuando usted del primer clic en cualquier cuadrado, ahí, empezará a correr el cronómetro, que se encuentra ubicado en la parte derecha superior de la ventana de juego.
+----- SHM ---- page 4 ---- 
+\par\qr\{bmr WinMine logo small.bmp\}\par\ql
+
+WinMine es un juego que esta compuesto por un campo con cierto número de minas, estas se encuentran dispersas por todo el campo. El objetivo del juego es descubrir donde se encuentran estas minas sin "pisarlas".
+Para esto, están los números que se despliegan en el tablero o campo de juego, donde cada uno de estos representa el número de minas que se encuentran a su alrededor.
+
+Estas son las posibilidades:
+\{bml MineClick.bmp\}- Ninguna Mina alrededor.
+
+\{bml Mine1.bmp\}- Una mina alrededor.
+
+\{bml Mine2.bmp\}- Dos minas alrededor.
+
+\{bml Mine3.bmp\}- Tres minas alrededor.
+
+\{bml Mine4.bmp\}- Cuarto minas alrededor.
+
+\{bml Mine5.bmp\}- Cinco minas alrededor.
+
+\{bml Mine6.bmp\}- Seis minas alrededor.
+
+\{bml Mine7.bmp\}- Siete minas alrededor.
+
+\{bml Mine8.bmp\}- Ocho minas alrededor.
+
+
+Así, si por ejemplo, se encuentra un \{bmc Mine1.bmp\}, estas serian unas posibilidades:
+
+\{bmc 1posibilidad.bmp\}  \{bmc 1posibilidad2.bmp\}  \{bmc 1posibilidad3.bmp\}  \{bmc 1posibilidad4.bmp\}  \{bmc 1posibilidad5.bmp\}  \{bmc 1posibilidad6.bmp\}
+Donde las tres últimas imágenes son ejemplos de partes del borde del campo de juego.
+
+Para empezar a descubrir minas y destapar números todo se hará con el ratón o mouse.
+
+
+<b>1. Clic Izquierdo: </b>Este servirá para destapar el cuadro donde se haga clic, siendo así que pueden pasar tres eventos.
+<b>1.1- Se destape un número:</b> Aquí se destapara un número en el campo que denotará cuantas minas habrá alrededor. 
+<b>Ejemplo:</b> \{bmc 5 minas.bmp\}
+<b>1.2- Se destape una mina: </b>Aquí se acabará el juego y no se habrá completado el objetivo. Al Destapar una mina, automáticamente se mostrará todo el campo de juego destapado. 
+<b>Ejemplo:</b> \{bmc lost.bmp\}
+Donde la mina rodeada de rojo es donde se dio el clic.
+<b>1.3- Se destape cierta región del campo de juego: </b>Esto sucede cuando se da clic en un cuadrado que no tiene minas a su alrededor. Así, se destapará hasta que en los bordes de la región haya algún número. 
+<b>Ejemplo.</b>\{bmc region.bmp\}
+Donde el cuadrado naranja es donde se dio el clic.
+Sobre esta última explicación se hablará en <jump=SHM_contents0005>Estrategias de Juego</jump>
+
+
+<b>2. Clic Derecho:</b> Este servirá para poner o quitar una bandera.
+<b>2.1 Poner una Bandera:</b> Es cuando se da el clic en un cuadro sin destapar, y quiere decir que en ese lugar el usuario cree que hay una mina. No obstante, si el usuario pone una bandera en un cuadro, no quiere decir que ahí necesariamente  hay una mina.
+<b>2.2 Quitar una bandera</b> Es cuando el usuario de el clic en un cuadro con bandera, este cuadro automáticamente quedara sin destapar y sin bandera.
+
+
+<b>3. Clic derecho e izquierdo al mismo tiempo:</b> Este tiene dos eventos...
+
+<b>3.1 Destapar uno o varios cuadros: </b>Esto sucede cuando un número ya tiene sus posibles banderas alrededor, y se presionan los dos botones del mouse, cuando esto pasa, pueden haber dos posibilidades.
+<b>3.1.1 Las banderas estén bien situadas:</b> Los cuadros de alrededor sin destapar se abrirán, mostrando su respectiva información. Si alguno de los cuadros a destapar no contiene ninguna mina a su alrededor, ocurrirá el caso <b>1.3</b> mencionado en este mismo capítulo. Con la práctica se aprenderá que este paso es importante para ir avanzando en el campo de juego lo más rápido posible.
+<b>Ejemplo:   Antes....\{bmc leftright.bmp\}   Después...\{bmc leftright2.bmp\}</b>
+En donde el \{bmc 1orange.bmp\} es al que se le dio el clic derecho e izquierdo al tiempo. Observe que en esta muestra ocurrió que había cuadros alrededor que no tenían mina, siendo así que pasó el caso <b>1.3</b> para cada uno de estos cuadros. No siempre pasa esto.
+<b>3.1.2 Las banderas estén mal situadas:</b> Si el cuadro donde se dan los clics tiene mal situadas las banderas, automáticamente se perderá el juego y se mostrarán, con \{bmc MineBombBad.bmp\} que banderas estaban mal situadas en el juego, con \{bmc MineBombRed.bmp\}, donde deberían haber estado las banderas, y con \{bmc MineFlag.bmp\},las que estaban bien situadas, respectivamente.
+<b>Ejemplo:   Antes...\{bmc lrmal1.bmp\}   Después...  \{bmc lrmal2.bmp\}</b>
+En donde el \{bmc 2orange.bmp\} es al que se le dio el clic derecho e izquierdo al tiempo.
+
+<b>3.2 Ver que número de cuadros sin destapar hay alrededor de un número: </b>Esto sucede cuando un número tiene más o menos banderas a su alrededor que las que realmente debería tener. Acá, lo que pasa es que se muestran los cuadros adyacentes sin destapar, como si estuvieran presionados todos al tiempo. Este método solo funciona mientras se mantienen presionados los botones derecho e izquierdo del ratón.
+
+<b>Ejemplo:   Antes de presionarlos....\{bmc alrededor.bmp\}   Mientras se presionan...\{bmc alrededor1.bmp\}   Después de presionarlos...\{bmc alrededor.bmp\}</b> 
+En donde el \{bmc 2orange.bmp\} es al que se le dio el clic derecho e izquierdo al tiempo.
+
+----- SHM ---- page 5 ---- 
+\par\qr\{bmr WinMine logo small.bmp\}\par\ql
+
+<b>WinMine</b>, aunque a simple vista parezca un juego en el que no se tienen tácticas ni estrategias, es un juego con múltiples caminos a seguir.
+He aquí algunos <b>Tips</b>:
+
+<b>1.</b>Lo primero que se tiene que hacer al jugar <b>WinMine CAFESANU</b>, o cualquier otra versión de WinMine, es tratar de abrir una región medianamente grande, en donde algunos números queden con muchas minas adyacentes ya destapadas. Note que si usted comienza , por ejemplo ,con un solo número, las posibilidades de adivinar donde quedan sus minas son bastante remotas, pues por ejemplo para un \{bmc Mine1.bmp\} que no este en los bordes del campo de juego, habría una posibilidad entré 8, que vendría a ser un 12.5% de probabilidad de éxito, mientras que con un \{bmc Mine2.bmp\} con las mismas características, las posibles combinaciones de minas serian 28,  lo cual significaría que habría una posibilidad entre 28 de acertar, que vendría a ser un 3.57% de probabilidad de éxito.
+
+Recuerde que se vio en la sección <b>1.3</b> del Capitulo <jump=SHM_contents0004>Como Jugar</jump>, como se abre una región del campo de juego.
+He aquí un ejemplo:
+\{bmc temp.bmp\}
+Note que los números rodeados de naranja, ya solo les queda como posibilidad para cumplir con su requisito sus cuadros adyacentes sin destapar, por lo que se sabría que estos cuadros obligatoriamente, tendrían mina, por lo tanto se tiene que ponerles \{bmc MineFlag.bmp\}.
+
+<b>2.</b> A veces, ciertos modelos de números son muy comunes, y para estos también hay algo que siempre se cumple... He aquí algunos ejemplos.
+<b>2.1</b>\{bmc Dibujo.bmp\}
+Esta situación es bastante común en WinMine, donde hay una hilera de 1's en donde sus únicos cuadros adyacentes también forman una hilera. 
+Note que el \{bmc 1green.bmp\} solo tiene 2 cuadros adyacentes, lo cual quiere decir que uno y solo uno de los dos tiene una mina... también note que esos dos cuadros son igualmente adyacentes al \{bmc 1blue.bmp\}, entonces, si alguno de estos dos tiene mina, querría decir que el \{bmc 1blue.bmp\} cumpliría con su requisito(una mina alrededor), y, por lógica, se deduciría que el otro cuadro adyacente al \{bmc 1blue.bmp\}, que es el \{bmc rosado.bmp\}, nunca podría tener mina, pues si ahí hubiera mina, y en los dos cuadros adyacentes al \{bmc 1green.bmp\} habría una y solo una mina, entonces el \{bmc 1blue.bmp\}, quedaría con dos minas alrededor, y esto violaría las reglas del juego... por lo tanto, con toda seguridad usted podría destapar el \{bmc rosado.bmp\} sin miedo a que ahí haya mina.
+
+<b>2.2</b>\{bmc Dibujo2.bmp\}
+Esta situación también es bastante común en WinMine, donde hay una hilera con secuencia 1-1-2 (No importa en que dirección, exceptuando diagonalmente) en donde sus únicos cuadros adyacentes también forman una hilera. 
+Note que el \{bmc 1rosado.bmp\} solo tiene 3 cuadros adyacentes sin destapar, lo cual quiere decir que uno y solo uno de esos tres tiene una mina... también note que si en el \{bmc rosado.bmp\} hubiera mina, ninguno de los dos \{bmc rojo.bmp\} podría tener mina, puesto que el \{bmc 1rosado.bmp\} cumpliría con su requisito. Ahora note que si ninguno de los dos \{bmc rojo.bmp\} tiene mina, el \{bmc 2orange.bmp\} no podría cumplir con su requisito, que serian 2 minas alrededor, entonces por lo tanto el \{bmc rosado.bmp\} no podría tener mina.
+Ahora que ya se sabe que el \{bmc rosado.bmp\} no tiene mina, al \{bmc 1rosado.bmp\} ya solo le quedan dos cuadros posibles, que son los dos \{bmc rojo.bmp\}, entonces se sabe que en uno y solo uno de los dos \{bmc rojo.bmp\} hay una mina, y también note que esos dos \{bmc rojo.bmp\} son adyacentes al \{bmc 2orange.bmp\}, y, si solo hay una mina en alguno de esos dos \{bmc rojo.bmp\}, significaría que le haría falta una mina al \{bmc 2orange.bmp\} para cumplir con su requisito, y note que solo quedaría un cuadro adyacente que no sea \{bmc rojo.bmp\}, que es el \{bmc verde.bmp\}, por lo tanto significa que en el \{bmc verde.bmp\} obligatoriamente hay mina, y se puede estar seguro de poner \{bmc mineFlag.bmp\} ahí.
+
+<b>2.3</b> Un ejercicio un poco mas complejo.(No se explicara, y se dejara para que se deduzca el  por que los \{bmc rosado.bmp\} no tienen mina, y los \{bmc verde.bmp\} si tienen mina.
+\{bmc Dibujo1.bmp\}
+Note ya el juego totalmente acabado y fíjese que verdaderamente no tenían mina los \{bmc rosado.bmp\} y si tenían mina los  \{bmc verde.bmp\}.
+----- SHM ---- page 6 ---- 
+\par\qr\{bmr WinMine logo small.bmp\}\par\ql
+
+He aquí un ejemplo donde se desarrolla paso a paso un campo de juego pequeño(nivel 1)
+\{bmc regionorange0.bmp\}
+Donde el cuadro presionado, el al que se le dio un clic izquierdo.
+\{bmc regionorange.bmp\}
+<b>1.1.1</b> Note que al dar clic en donde se dio, se abrió una región de juego suficiente como para empezar a jugar.
+<b>1.1.2</b> Note que los números rodeados de naranja tienen un número de cuadros adyacentes sin destapar igual al número de minas adyacentes que deben tener estos, es así como se deduce que esos cuadros contiguos deben tener mina, por lo tanto se les debe poner banderas, estando seguros que están bien situadas... Así quedaría el juego...
+\{bmc regionorange1.bmp\}
+<b>1.2</b> Note que los números rodeados de naranja, ya cumplen con su número de minas respectivamente, es así como se pueden destapar los cuadros adyacentes a estos números con toda seguridad, sabiendo que los cuadros que se destapen no serán una mina, también note que en estos números rodeados de naranja, se puede hacer clic derecho e izquierdo al tiempo, y ocurriría que se destapan los cuadros de alrededor de estos números .. Así quedaría el juego...
+\{bmc regionorange2.bmp\}
+<b>1.3.1</b> Note que a las celdas adyacentes al \{bmc 1blue.bmp\} denotadas en verde, les sucedió el caso <b>1.3</b> del Capítulo <jump=SHM_contents0004>Como Jugar</jump>.
+<b>1.3.2</b> Siguiendo con el juego, a los números rodeados de naranja les paso el caso <b>1..1.2</b> de esta sección... Así quedaría el juego...
+\{bmc regionorange3.bmp\}
+<b>1.4</b> Caso <b>1.2</b> de esta sección... Así quedaría el juego...
+\{bmc regionorange4.bmp\}
+<b>1.5</b> Caso <b>1.2</b> de esta sección... Así quedaría el juego...
+\{bmc regionorange5.bmp\}
+<b>1.6</b> Note que tanto el \{bmc 2orange.bmp\} como el \{bmc 3orange.bmp\} tienen ya una bandera adyacente, pero el número de cuadros adyacentes a estos, respectivamente, sirve para completar el número de minas que deben tener a su alrededor... Así quedaría el juego después de ponerle banderas a estos cuadros...
+\{bmc regionorange6.bmp\}
+<b>1.7</b> Caso <b>1.2</b> de esta sección... Así quedaría el juego...
+\{bmc regionorange7.bmp\}
+<b>1.8</b> Esta es una parte un poco más compleja de resolver, aunque si se pone a ver con detenimiento es bastante fácil.
+Note que ya al campo de juego solo le falta una bandera (números en la parte superior izquierda) para que se descubran todas las minas, y si usted nota, tanto al \{bmc 2orange.bmp\} como al \{bmc 3orange.bmp\} solo les hace falta una \{bmc MineFlag.bmp\} para completarse.
+
+Hay cuarto casos para poner la bandera, que son los siguientes:
+<b>1.8.1 \{bmc rosado.bmp\}</b> Si se pone acá la \{bmc MineFlag.bmp\}, el campo de juego tendría ya sus banderas completas, pero ni el \{bmc 2orange.bmp\} ni el \{bmc 3orange.bmp\} cumplirían con su número de minas alrededor, por lo tanto esta opción no puede ser.
+<b>1.8.2 \{bmc amarillo.bmp\}</b> Si se pone acá la \{bmc MineFlag.bmp\}, tanto el campo de juego como el \{bmc 3orange.bmp\} tendrían ya sus banderas completas, pero el \{bmc 2orange.bmp\} no cumpliría con su número de minas alrededor, por lo tanto esta opción no puede ser.
+<b>1.8.3 \{bmc azul.bmp\}</b> Si se pone acá la \{bmc MineFlag.bmp\}, tanto el campo de juego como el \{bmc 2orange.bmp\} tendrían ya sus banderas completas, pero el \{bmc 3orange.bmp\} no cumpliría con su número de minas alrededor, por lo tanto esta opción no puede ser.
+<b>1.8.4 \{bmc verde.bmp\}</b> Si se pone acá la \{bmc MineFlag.bmp\}, tanto el campo de juego, como el \{bmc 2orange.bmp\}, como el \{bmc 3orange.bmp\} tendrían ya sus banderas completas, por lo tanto esta seria la opción valida.
+Así quedaría el juego...
+\{bmc regionorange8.bmp\}
+Como ya se tienen todas las \{bmc MineFlag.bmp\} y se sabe con toda seguridad que están bien situadas, ya es seguro destapar las minas que faltan...Así quedaría el juego...
+\{bmc regionorange9.bmp\}
+
+

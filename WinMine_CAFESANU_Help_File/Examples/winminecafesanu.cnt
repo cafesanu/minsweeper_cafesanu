@@ -1,0 +1,6 @@
+:Base winminecafesanu.hlp
+:Title WinMineCAFESANUHelp
+:Index dummy=dummy.hlp ;(This is necessary when using KLinks - because of a bug in the help
+:Link dummy.hlp        ; compiler. Without this only the first keyword would be looked up!)
+1 Introducción=SHM_contents0001@winminecafesanu.hlp
+1 Acerca de...=SHM_contents0002@winminecafesanu.hlp

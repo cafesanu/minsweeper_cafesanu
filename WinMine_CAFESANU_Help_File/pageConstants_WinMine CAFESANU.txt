@@ -1,0 +1,8 @@
+  const int Introduccin    = 1;
+  const int ResolucinDe    = 2;
+  const int GuardarAbrirY  = 3;
+  const int ComoEmpezar    = 4;
+  const int ComoJugar      = 5;
+  const int EstrategiasY   = 6;
+  const int EjemploDeJuego = 7;
+
